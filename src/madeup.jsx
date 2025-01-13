@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function madeup() {
   return (
-    <div>Made up new  brother</div>
+    <div>THis is newsst text</div>
   )
 }
